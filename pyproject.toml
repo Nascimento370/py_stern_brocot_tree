@@ -1,6 +1,6 @@
 [project]
 name = "py-stern-brocot-tree"
-version = "0.1.0"
+version = "0.1.1"
 description = "Stores fractions in Stern-Brocot order for fast ordered lookup."
 requires-python = ">=3.10"
 dependencies = []
